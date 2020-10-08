@@ -1,2 +1,2 @@
-# custom-domain
+# bardendesign.com
 my custom domain
